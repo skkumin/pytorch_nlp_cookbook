@@ -17,7 +17,7 @@ Deeplearningbook (Ian Goodfellow) group study in DSBA
 
 #### 2) 기간
 
-: 2020/8/11 ~
+: 2023/8/11 ~
 
 
 ## 2. 스터디 내용
