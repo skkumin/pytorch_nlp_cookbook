@@ -16,7 +16,14 @@
 
 #### 2) 기간
 
-: 2023/10/31 ~
+1주차: RNN&LSTM :2023/10/31~2023.11/05
+2주차: seq2seq&attention:
+3주차: transformer: 
+4주차: ELMO:
+5주차: GPT:
+6주차: BERT:
+7주차: GPT-2:
+8주차: LLAMA:
 
 
 ## 2. 스터디 내용
