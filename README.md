@@ -1,3 +1,4 @@
+[Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fskkumin%2Fpytorch_nlp_cookboo&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)<br/>
 # pytorch_nlp_cookbook
 
 ## 1. 스터디 소개
